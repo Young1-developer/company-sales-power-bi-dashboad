@@ -60,7 +60,7 @@ This project strengthened my understanding of how Power BI is used in **real bus
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](company-sales-data1/image/dashboard-preview.png)
 
 ---
 
